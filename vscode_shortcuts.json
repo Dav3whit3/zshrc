@@ -1,0 +1,79 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+	{
+		"key": "Ctrl+-",
+		"command": "type",
+		"args": { "text": "(" },
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "Ctrl+.",
+		"command": "type",
+		"args": { "text": "{" },
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "Ctrl+,",
+		"command": "type",
+		"args": { "text": "[" },
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+1"
+	},
+	{
+		"key": "ctrl+2",
+		"command": "type",
+		"args": { "text": "(" },
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+3",
+		"command": "type",
+		"args": { "text": "{" },
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+4",
+		"command": "type",
+		"args": { "text": "[" },
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+5",
+		"command": "type",
+		"args": { "text": "=>" },
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+p",
+		"command": "type",
+		"args": { "text": "console.log()" },
+		"when": "editorTextFocus"
+	},
+
+	{
+		"key": "ctrl+6",
+		"command": "-workbench.action.openEditorAtIndex6"
+	},
+	{
+		"key": "ctrl+7",
+		"command": "-workbench.action.openEditorAtIndex7"
+	},
+	{
+		"key": "ctrl+8",
+		"command": "-workbench.action.openEditorAtIndex8"
+	},
+	{
+		"key": "ctrl+9",
+		"command": "-workbench.action.openEditorAtIndex9"
+	},
+	{
+		"key": "ctrl+t",
+		"command": "workbench.action.togglePanel"
+	},
+	{
+		"key": "cmd+j",
+		"command": "-workbench.action.togglePanel"
+	}
+]

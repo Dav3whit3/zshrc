@@ -1,0 +1,112 @@
+{
+	"terminal.integrated.scrollback": 10000,
+	"vsicons.dontShowNewVersionMessage": true,
+	"settingsSync.ignoredSettings": [],
+	"explorer.confirmDragAndDrop": false,
+	"html.format.wrapAttributesIndentSize": 50,
+	"editor.fontFamily": "Fira Code",
+	"prettier.useTabs": true,
+	"jupyter.askForKernelRestart": false,
+	"python.defaultInterpreterPath": "/Users/davidblanco/opt/miniconda3/envs/dmp/bin/python",
+	"diffEditor.renderSideBySide": false,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"editor.tabSize": 2,
+	"files.autoSave": "afterDelay",
+	"workbench.editorAssociations": {
+		"*.ipynb": "jupyter-notebook"
+	},
+	"html.format.wrapLineLength": 50,
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"html.format.wrapAttributes": "force-aligned",
+	"emmet.triggerExpansionOnTab": true,
+	"editor.codeActionsOnSave": {},
+	"explorer.compactFolders": false,
+	"terminal.integrated.fontFamily": "MesloLGS NF",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"workbench.iconTheme": "vscode-great-icons",
+	"editor.bracketPairColorization.enabled": true,
+	"[python]": {
+		"editor.tabSize": 4,
+		"editor.defaultFormatter": "ms-python.python"
+	},
+	"[jsx]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"editor.formatOnType": true,
+	"editor.fontSize": 13,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.minimap.enabled": false,
+	"editor.mouseWheelZoom": true,
+	"liveServer.settings.CustomBrowser": "chrome",
+	"editor.largeFileOptimizations": false,
+	"rainbowTags.hightlightType": "color",
+	"editor.tokenColorCustomizations": {
+		"textMateRules": [
+			{
+				"scope": "meta.function-call",
+				"settings": {
+					"foreground": "#9ed8fa"
+				}
+			},
+			{
+				"scope": "constant",
+				"settings": {
+					"foreground": "#0099ff"
+				}
+			}
+		]
+	},
+	"diffEditor.ignoreTrimWhitespace": false,
+	"security.workspace.trust.untrustedFiles": "open",
+	"editor.accessibilitySupport": "off",
+	"workbench.colorCustomizations": {
+		"terminal.ansiWhite": "#A89984",
+		"terminal.ansiBrightCyan": "#8BA59B",
+		"terminalCursor.background": "#A89984",
+		"terminal.ansiYellow": "#FAC03B",
+		"terminal.ansiCyan": "#8BA59B",
+		"terminal.ansiBrightYellow": "#FAC03B",
+		"terminal.ansiBrightGreen": "#95C085",
+		"terminal.ansiBrightMagenta": "#8F4673",
+		"terminalCursor.foreground": "#A89984",
+		"terminal.background": "#353535",
+		"terminal.ansiBrightBlack": "#665C54",
+		"terminal.ansiMagenta": "#8F4673",
+		"terminal.ansiBrightRed": "#FB543F",
+		"editor.background": "#353535",
+		"terminal.ansiRed": "#FB543F",
+		"terminal.foreground": "#A89984",
+		"terminal.ansiGreen": "#95C085",
+		"terminal.ansiBlue": "#0D6678",
+		"terminal.ansiBrightBlue": "#0D6678",
+		"terminal.ansiBrightWhite": "#FDF4C1",
+		"terminal.ansiBlack": "#1D2021"
+	},
+	"editor.suggestSelection": "first",
+	"rainbowTags.allowEverywhere": true,
+	"explorer.confirmDelete": false,
+	"editor.fontLigatures": true,
+	"prettier.useEditorConfig": false,
+	"prettier.tabWidth": 2,
+	"prettier.htmlWhitespaceSensitivity": "ignore",
+	"editor.formatOnSave": true,
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"editor.guides.bracketPairs": true,
+	"notebook.cellToolbarLocation": {
+		"default": "right",
+		"jupyter-notebook": "left"
+	},
+	"terminal.integrated.env.osx": {
+		"FIG_NEW_SESSION": "1"
+	},
+	"debug.javascript.autoAttachFilter": "smart"
+}
